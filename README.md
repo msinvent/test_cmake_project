@@ -21,6 +21,8 @@ Now you can clone the project locally and get to work!
 
     $ git clone https://github.com/<user>/<your_new_repo>.git
 
+	test
+
 ### Remove frameworks you're not going to use
 If you know you're not going to use one or more of the optional gui/graphics
 frameworks (fltk, gtkmm, imgui, etc.), you can remove them with `git rm`:
